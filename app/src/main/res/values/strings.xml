@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="work_it_out">WORK-IT-OUT</string>
+    <string name="signup">signup</string>
+    <string name="signup2">sign-up</string>
+    <string name="button2">Button</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="done">done</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="username2">Username:</string>
+    <string name="password2">Password:</string>
+    <string name="email">Email:</string>
+    <string name="confirm">Confirm Password:</string>
+
+</resources>
