@@ -15,5 +15,11 @@
     <string name="password2">Password:</string>
     <string name="email">Email:</string>
     <string name="confirm">Confirm Password:</string>
+    <string name="medical_id">Medical ID</string>
+    <string name="vitals">Vitals</string>
+    <string name="health_data">Health Data</string>
+    <string name="activity1">Activity</string>
+    <string name="body_measurements">Body Measurements</string>
+    <string name="log_out">Log Out</string>
 
 </resources>
